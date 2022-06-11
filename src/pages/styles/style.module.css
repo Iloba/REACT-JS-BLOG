@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.form-control{
+    display: block;
+    height: 50px;
+    width: 100%;
+    padding: 20px;
+}
+.form-control:focus{
+    outline: none;
+    border: 1.5px solid purple;
+    
+}
